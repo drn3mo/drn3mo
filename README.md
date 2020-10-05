@@ -13,8 +13,6 @@
 - Any community where code and information can be shared, I am part of it </OpenSource>
 
 ###My stack in 2020  is:
-
-- 👁  Spark AR Studio
 - React.js 
 - Next.js
 - AppScript
